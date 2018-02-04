@@ -1,6 +1,6 @@
 {
   "name": "typescript-boilerplate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Boilerplate code",
   "main": "serve.js",
   "author": "Jamin Ma <dev.jamin@gmail.com> (https://github.com/JaminMa)",
