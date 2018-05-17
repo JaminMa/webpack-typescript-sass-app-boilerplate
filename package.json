@@ -8,6 +8,8 @@
   "private": false,
   "scripts": {
     "build": "webpack",
+    "heroku-postbuild": "webpack --progress",
+    "start": "node serve",
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
