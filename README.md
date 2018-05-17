@@ -1,4 +1,4 @@
-# webpack-typescript-sass-boilerplate
+# webpack-typescript-sass-app-boilerplate
 ## Description
 Boilerplate to kickstart development of a web app using Webpack, TypeScript and SASS.
 ## How To
